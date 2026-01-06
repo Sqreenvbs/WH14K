@@ -11,5 +11,5 @@
   name: вокс 
   keycode: 'w'
   frequency: 2050
-  color: "#ff2222"
-  longRange: true
+  color: "#60615b"
+  longRange: false

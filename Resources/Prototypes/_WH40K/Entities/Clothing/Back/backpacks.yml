@@ -98,13 +98,8 @@
     interfaces:
       enum.StoreUiKey.Key:
         type: StoreBoundUserInterface
-#      enum.StorageUiKey.Key:
-#       type: StorageBoundUserInterface
   - type: ActivatableUI
     key: enum.StoreUiKey.Key
   - type: Store
     balance:
       Intelligence: 0
-  - type: ToggleableClothing
-    slot: ears
-    clothingPrototype: ClothingHeadsetVoxBackpack
