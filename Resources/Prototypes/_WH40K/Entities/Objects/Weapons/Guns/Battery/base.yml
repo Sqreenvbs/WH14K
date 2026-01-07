@@ -6,10 +6,9 @@
   - type: AmmoCounter
   - type: Gun
     fireRate: 3
-    selectedMode: SemiAuto
+    selectedMode: FullAuto
     availableModes:
     - FullAuto
-    - SemiAuto
     soundGunshot:
       path: /Audio/_WH40K/Weapons/Guns/Gunshots/lasgunpew.ogg
   - type: MagazineAmmoProvider
