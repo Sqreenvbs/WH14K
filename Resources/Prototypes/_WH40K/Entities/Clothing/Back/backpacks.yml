@@ -84,7 +84,7 @@
   parent: [ Clothing, StorePresetVox ]
   id: ClothingBackpackVox
   name: вокс рюкзак
-  description:
+  description: Рюкзак, оборудованный разного рода электронникой, позволяющей передавать в штаб разведданные и получать за это пополнение ваших запасов.
   suffix: WH40K, Гвардия
   components:
   - type: Clothing
